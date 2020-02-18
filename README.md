@@ -9,7 +9,7 @@ Para utilizar la aplicación introduzca el nombre de la canción o del artista q
 
 Código usando la API de [lyrics.ovh](https://lyrics.ovh/).
 
-[](img/ss.png)
+![](img/ss.png)
 
 
 
