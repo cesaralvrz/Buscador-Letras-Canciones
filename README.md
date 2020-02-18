@@ -7,7 +7,7 @@ Código usando la API de [lyrics.ovh](https://lyrics.ovh/).
 
 ## Cómo Utilizar la Aplicación
 
-Para utilizar la aplicación introduzca el nombre de la canción o del artista que deseas, luego busca la canción que buscas y finalmente haz click en el botón "Lyrics" para conseguir la letra de la canción.
+Para utilizar la aplicación introduzca el nombre de la canción o del artista que deseas, luego buscas la canción que deseas y finalmente haz click en el botón "Lyrics" para conseguir la letra de la canción.
 
 
 ![](img/SS.png)
